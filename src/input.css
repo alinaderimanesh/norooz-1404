@@ -4,6 +4,7 @@
 } */
 .bg{
     background-image: url(/images/pic\ 1.png);
+    background-color: radial-gradient(circle_at_top_left,_rgba(173,216,230,0.6),_rgba(255,255,255,0));
 }
 .font{
     font-size: 10px;
