@@ -1,0 +1,19 @@
+@import "tailwindcss";
+/* input{
+    background-image: url(/images/location.png);
+} */
+.bg{
+    background-image: url(/images/pic\ 1.png);
+}
+.font{
+    font-size: 10px;
+}
+.rounded_bl{
+    border-radius: 0 0 0 100px;
+}
+.mt{
+    margin-top: 570px;
+}
+@media (max-with:576px){
+    
+}
